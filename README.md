@@ -12,6 +12,8 @@ Bu uygulamada, veri yapısındaki elemanların kullanıcıdan sıralanmamış bi
 
 Puanlama: ADT (30 puan), İşlev 1 (25 puan), İşlev 2 (30 puan), Form tasarımının uygunluğu ve uygulamanın çalışabilmesi (15 puan)
 
-Kontrol edilebilmesi için Visual Studio ekranlarının açık bırakılması ve bilgisayar güç seçenekleri (uyku sürelerinin) sınırsız şekilde ayarlanmalıdır.
+Visual studio çözüm (solution) adınızın öğrenci numaranız olması gerekmektedir.
+
+Kontrol edilebilmesi için Visual Studio ekranlarının açık bırakılması ve bilgisayar güç seçeneklerinden uyku sürelerinin sınırsız şekilde ayarlanması gerekmektedir.
 
 Süre: 1 saat
