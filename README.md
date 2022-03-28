@@ -10,7 +10,7 @@ Bu uygulamada, veri yapısındaki elemanların kullanıcıdan sıralanmamış bi
 
 İki işlev de form uygulamasında çalışıyor olmalı ve ekranda herhangi bir kontrol (örn. textbox, messagebox, listbox) içerisinde işlev sonuçları gösterilmelidir.
 
-Puanlama: ADT (30 puan), İşlev 1 (25 puan), İşlev 2 (30 puan), Form tasarımı ve uygulama çalışılabilirliği (15 puan)
+Puanlama: ADT (30 puan), İşlev 1 (25 puan), İşlev 2 (30 puan), Form tasarımının uygunluğu ve uygulamanın çalışabilmesi (15 puan)
 
 Kontrol edilebilmesi için Visual Studio ekranlarının açık bırakılması ve bilgisayar güç seçenekleri (uyku sürelerinin) sınırsız şekilde ayarlanmalıdır.
 
